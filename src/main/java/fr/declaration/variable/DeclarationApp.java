@@ -1,5 +1,7 @@
 package fr.declaration.variable;
-
+/**
+ * TP 03
+ */
 public class DeclarationApp {
     public static void main(String[] args) {
         byte mByte = 36;
