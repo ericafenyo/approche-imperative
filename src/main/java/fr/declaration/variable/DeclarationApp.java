@@ -12,6 +12,7 @@ public class DeclarationApp {
         double mDouble = 8.66D;
         boolean mBoolean = false;
         String mString = "Inter";
+        char mChar = '\u8563';
 
         System.out.println(mByte);
         System.out.println(mShort);
@@ -21,7 +22,7 @@ public class DeclarationApp {
         System.out.println(mDouble);
         System.out.println(mBoolean);
         System.out.println(mString);
-        System.out.println('\u8563');
+        System.out.println(mChar);
 
 
         String randomString = "Voici le résultat d’un calcul : 1+5=6";
